@@ -43,15 +43,16 @@ The project is designed with a **clear separation between logic and CLI**, makin
 
 ## 📁 Project Structure
 
+```text
 encryption_system/
 │
-├─ encryption.py # Core encryption logic
-├─ cli.py # Command-line interface
-├─ test_project.py # Unit tests
+├─ encryption.py      # Core encryption logic
+├─ cli.py             # Command-line interface
+├─ test_project.py    # Unit tests
 ├─ README.md
 ├─ requirements.txt
-└─ init.py
-
+└─ __init__.py
+```
 
 ---
 
